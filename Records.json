@@ -1,10 +1,10 @@
 [
   {
-    "HOSTNAME": "v4.cnvpn.in:55555",
+    "HOSTNAME": "v4.cnvpn.in",
     "LOCATION": "Japan",
     "FLAG": "https://raw.githubusercontent.com/GrewRabbit/server-list/main/flags/JP.png",
     "PING": "8 ms",
-    "PORT": 443,
+    "PORT": 55555,
     "UPTIME": "62 days",
     "SESSIONS": 250,
     "LINE_QUALITY": "467.64 Mbps",
